@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "68DEF96B-9682-460D-8851-493745488D7C",
+  "do_objectID": "B67F60F7-E87B-4479-A15B-96FE68DC1BCD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 194.6929120375883,
-    "width": 194.6929120375563,
-    "x": 27,
-    "y": 90
+    "height": 196,
+    "width": 196,
+    "x": 142,
+    "y": 85
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,14 +29,10 @@
   "layers": [
     {
       "class": "oval",
-      "id": "73F4F84E-E6D6-404C-BA36-BA74BEEBB3CF"
-    },
-    {
-      "class": "oval",
-      "id": "4E0748AB-931B-4191-8C75-FFF1977D3795"
+      "id": "CEBF48F1-713E-445D-9230-4A6869053DC1"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Oval 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,20 +40,28 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": true,
+      "motionAngle": 0,
+      "radius": 10,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1652514934539795,
-          "green": 0.3430676162242889,
-          "red": 0.5435072779655457
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 5
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
       }
     ],
     "endDecorationType": 0,
@@ -67,9 +71,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1066960170865059,
+          "green": 0.007513228338211775,
+          "red": 0.816203773021698
         },
         "fillType": 0,
         "isEnabled": true,
@@ -77,28 +81,6 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      }
-    ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 3,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
       }
     ],
     "miterLimit": 10,
@@ -109,15 +91,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 194.6929,
+            "constant": 196,
             "enabled": 1,
-            "modelID": "constraint_5569ee77-981e-4056-a309-a0b4d18626c7",
+            "modelID": "constraint_51c87677-38a4-4b02-aa41-712f5cf56062",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 194.6929
+            "multiplier": 196
           },
           "automatic": 1,
-          "modelID": "viewConstraints_0b238c40-3766-44ad-b43a-8df79f211d3f",
+          "modelID": "viewConstraints_636f10f4-52b7-4141-8940-401663e6abbd",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
