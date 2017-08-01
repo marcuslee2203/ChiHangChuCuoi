@@ -1,7 +1,7 @@
 {
   "_class": "oval",
   "booleanOperation": 1,
-  "do_objectID": "73F4F84E-E6D6-404C-BA36-BA74BEEBB3CF",
+  "do_objectID": "4E0748AB-931B-4191-8C75-FFF1977D3795",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,15 +17,15 @@
     "constrainProportions": false,
     "height": 213.2226562499998,
     "width": 213.2226562499998,
-    "x": 0,
-    "y": -18.52974421241149
+    "x": 28,
+    "y": -46.52974421241149
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "path": {
     "_class": "path",

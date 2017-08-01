@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 165,
-    "width": 165,
-    "x": 95,
-    "y": 95
+    "height": 194.6929120375883,
+    "width": 194.6929120375563,
+    "x": 71,
+    "y": 89.52974421241149
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,9 +30,13 @@
     {
       "class": "oval",
       "id": "73F4F84E-E6D6-404C-BA36-BA74BEEBB3CF"
+    },
+    {
+      "class": "oval",
+      "id": "4E0748AB-931B-4191-8C75-FFF1977D3795"
     }
   ],
-  "name": "Oval",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,9 +67,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1066960170865059,
-          "green": 0.007513228338211775,
-          "red": 0.816203773021698
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
@@ -83,12 +87,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 165,
+            "constant": 194.6929,
             "enabled": 1,
             "modelID": "constraint_5569ee77-981e-4056-a309-a0b4d18626c7",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 165
+            "multiplier": 194.6929
           },
           "automatic": 1,
           "modelID": "viewConstraints_0b238c40-3766-44ad-b43a-8df79f211d3f",
